@@ -66,7 +66,7 @@ https://templatemo.com/tm-559-zay-shop
                             <a class="nav-link" href="index.html">홈홈</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">About</a>
+                            <a class="nav-link" href="about.html">어바웃</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="shop.html">Shop</a>
